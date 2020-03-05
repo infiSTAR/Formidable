@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29820.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Formidable", "Formidable\Formidable.csproj", "{DF5CE425-7202-479B-A4DE-786EAC7B9E9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF5CE425-7202-479B-A4DE-786EAC7B9E9B}.Debug|x64.ActiveCfg = Debug|x64
+		{DF5CE425-7202-479B-A4DE-786EAC7B9E9B}.Debug|x64.Build.0 = Debug|x64
+		{DF5CE425-7202-479B-A4DE-786EAC7B9E9B}.Release|x64.ActiveCfg = Release|x64
+		{DF5CE425-7202-479B-A4DE-786EAC7B9E9B}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97EE99AF-444E-422B-82CE-9DF069D90B81}
+	EndGlobalSection
+EndGlobal
